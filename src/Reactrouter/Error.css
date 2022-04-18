@@ -1,0 +1,14 @@
+.Error_page{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
+h1{
+    font-size: 80px;
+   
+}
+p{
+    font-size: 50px;
+}
